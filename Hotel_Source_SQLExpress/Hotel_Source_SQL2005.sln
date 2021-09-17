@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Hotel_Source_SQLExpress", ".", "{EB671D56-9AEA-427E-AF50-0D9E14BA2665}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/Hotel_Source_SQL2005"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Projects_Total\Barnameh_Nevisi\ASP.NET\VS_2008\Hotel\Hotel_Source_SQL2005\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Hotel_Source_SQL2005\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Hotel_Source_SQL2005"
+		Release.AspNetCompiler.PhysicalPath = "D:\Projects_Total\Barnameh_Nevisi\ASP.NET\VS_2008\Hotel\Hotel_Source_SQL2005\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Hotel_Source_SQL2005\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1858"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB671D56-9AEA-427E-AF50-0D9E14BA2665}.Debug|.NET.ActiveCfg = Debug|.NET
+		{EB671D56-9AEA-427E-AF50-0D9E14BA2665}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

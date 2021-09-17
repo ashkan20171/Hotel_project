@@ -1,0 +1,62 @@
+E:\hotel\hotel\bin\Debug\hotel.exe
+E:\hotel\hotel\bin\Debug\hotel.pdb
+E:\hotel\hotel\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\hotel\hotel\obj\x86\Debug\hotel.Form1.resources
+E:\hotel\hotel\obj\x86\Debug\hotel.Properties.Resources.resources
+E:\hotel\hotel\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\hotel\hotel\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\hotel\hotel\obj\x86\Debug\hotel.exe
+E:\hotel\hotel\obj\x86\Debug\hotel.pdb
+E:\hotel\hotel\bin\Debug\hotel.exe.config
+E:\hotel\hotel\obj\x86\Debug\hotel.frmcustomer.resources
+E:\hotel\hotel\obj\x86\Debug\hotel.frm_updatecustomer.resources
+E:\hotel\hotel\obj\x86\Debug\hotel.frmroom.resources
+E:\hotel\hotel\obj\x86\Debug\hotel.frm_roomupdate.resources
+E:\hotel\hotel\obj\x86\Debug\hotel.frmreserve.resources
+E:\hotel\hotel\obj\x86\Debug\hotel.frmupdatereserve.resources
+E:\hotel\hotel\obj\x86\Debug\hotel.frmpersonel.resources
+E:\hotel\hotel\obj\x86\Debug\hotel.frmhazineh.resources
+E:\hotel\hotel\obj\x86\Debug\hotel.frmreport.resources
+E:\hotel\hotel\obj\x86\Debug\hotel.report.resources
+E:\hotel\hotel\obj\x86\Debug\hotel.frmreportbet2date.resources
+E:\hotel\hotel\obj\x86\Debug\hotel.frmlogin.resources
+C:\Users\pc\Desktop\Hotel\hotel\bin\Debug\hotel.exe.config
+C:\Users\pc\Desktop\Hotel\hotel\obj\x86\Debug\hotel.exe
+C:\Users\pc\Desktop\Hotel\hotel\obj\x86\Debug\hotel.pdb
+C:\Users\pc\Desktop\Hotel\hotel\obj\x86\Debug\hotel.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Hotel\hotel\obj\x86\Debug\hotel.Form1.resources
+C:\Users\pc\Desktop\Hotel\hotel\obj\x86\Debug\hotel.frmcustomer.resources
+C:\Users\pc\Desktop\Hotel\hotel\obj\x86\Debug\hotel.frmhazineh.resources
+C:\Users\pc\Desktop\Hotel\hotel\obj\x86\Debug\hotel.frmlogin.resources
+C:\Users\pc\Desktop\Hotel\hotel\obj\x86\Debug\hotel.frmpersonel.resources
+C:\Users\pc\Desktop\Hotel\hotel\obj\x86\Debug\hotel.frmreport.resources
+C:\Users\pc\Desktop\Hotel\hotel\obj\x86\Debug\hotel.frmreportbet2date.resources
+C:\Users\pc\Desktop\Hotel\hotel\obj\x86\Debug\hotel.frmreserve.resources
+C:\Users\pc\Desktop\Hotel\hotel\obj\x86\Debug\hotel.frmroom.resources
+C:\Users\pc\Desktop\Hotel\hotel\obj\x86\Debug\hotel.frmupdatereserve.resources
+C:\Users\pc\Desktop\Hotel\hotel\obj\x86\Debug\hotel.frm_roomupdate.resources
+C:\Users\pc\Desktop\Hotel\hotel\obj\x86\Debug\hotel.frm_updatecustomer.resources
+C:\Users\pc\Desktop\Hotel\hotel\obj\x86\Debug\hotel.Properties.Resources.resources
+C:\Users\pc\Desktop\Hotel\hotel\obj\x86\Debug\hotel.report.resources
+C:\Users\pc\Desktop\Hotel\hotel\obj\x86\Debug\hotel.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Hotel\hotel\bin\Debug\hotel.exe
+C:\Users\pc\Desktop\Hotel\hotel\bin\Debug\hotel.pdb
+D:\21.0\c# projects\Hotel_project-www.aghazeh.com\hotel\obj\x86\Debug\hotel.csprojAssemblyReference.cache
+D:\21.0\c# projects\Hotel_project-www.aghazeh.com\hotel\obj\x86\Debug\hotel.Form1.resources
+D:\21.0\c# projects\Hotel_project-www.aghazeh.com\hotel\obj\x86\Debug\hotel.frmcustomer.resources
+D:\21.0\c# projects\Hotel_project-www.aghazeh.com\hotel\obj\x86\Debug\hotel.frmhazineh.resources
+D:\21.0\c# projects\Hotel_project-www.aghazeh.com\hotel\obj\x86\Debug\hotel.frmlogin.resources
+D:\21.0\c# projects\Hotel_project-www.aghazeh.com\hotel\obj\x86\Debug\hotel.frmpersonel.resources
+D:\21.0\c# projects\Hotel_project-www.aghazeh.com\hotel\obj\x86\Debug\hotel.frmreport.resources
+D:\21.0\c# projects\Hotel_project-www.aghazeh.com\hotel\obj\x86\Debug\hotel.frmreportbet2date.resources
+D:\21.0\c# projects\Hotel_project-www.aghazeh.com\hotel\obj\x86\Debug\hotel.frmreserve.resources
+D:\21.0\c# projects\Hotel_project-www.aghazeh.com\hotel\obj\x86\Debug\hotel.frmroom.resources
+D:\21.0\c# projects\Hotel_project-www.aghazeh.com\hotel\obj\x86\Debug\hotel.frmupdatereserve.resources
+D:\21.0\c# projects\Hotel_project-www.aghazeh.com\hotel\obj\x86\Debug\hotel.frm_roomupdate.resources
+D:\21.0\c# projects\Hotel_project-www.aghazeh.com\hotel\obj\x86\Debug\hotel.frm_updatecustomer.resources
+D:\21.0\c# projects\Hotel_project-www.aghazeh.com\hotel\obj\x86\Debug\hotel.Properties.Resources.resources
+D:\21.0\c# projects\Hotel_project-www.aghazeh.com\hotel\obj\x86\Debug\hotel.report.resources
+D:\21.0\c# projects\Hotel_project-www.aghazeh.com\hotel\obj\x86\Debug\hotel.csproj.GenerateResource.cache
+D:\21.0\c# projects\Hotel_project-www.aghazeh.com\hotel\obj\x86\Debug\hotel.csproj.CoreCompileInputs.cache
+D:\21.0\c# projects\Hotel_project-www.aghazeh.com\hotel\obj\x86\Debug\hotel.exe
+D:\21.0\c# projects\Hotel_project-www.aghazeh.com\hotel\obj\x86\Debug\hotel.pdb
